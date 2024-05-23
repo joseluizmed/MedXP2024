@@ -1,0 +1,15 @@
+Para ativar pesquisa:
+*Tecle Ctrl+L ou Ctrl+F 
+________________________________________
+Biblioteca de Imagens
+
+1 - Conjuntiva Corada
+2 - Conjuntiva hipocorada
+3 - Conjuntiva Hiperemiada
+4 - Conjuntiva Ictérica +
+5 - Conjuntiva Ictérica ++
+6 - Conjuntiva Ictérica +++
+7
+8
+9
+0

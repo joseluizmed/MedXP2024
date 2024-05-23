@@ -1,0 +1,15 @@
+Para ativar pesquisa:
+*Tecle Ctrl+L ou Ctrl+F 
+________________________________________
+Biblioteca de Imagens
+
+1 - Tórax Normal Branco
+2 - Tórax Normal Negro
+3 - Tórax com Hematomas e Escoriações
+4 - Tórax com Ferimento por Arma de Fogo
+5 - Tórax com Ferimento por Arma Branca
+6 
+7
+8
+9
+0

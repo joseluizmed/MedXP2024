@@ -1,0 +1,20 @@
+Para ativar pesquisa:
+*Tecle Ctrl+L ou Ctrl+F 
+________________________________________
+Biblioteca de Casos Clínicos:
+
+1 - HAS
+Paciente adulto jovem previamente hígido segue com cefaléia e tem surpreedido HAS.
+
+2 - Queimadura de 4º Grau 
+Paciente adulto jovem previamente hígido foi vítima de explosão em ambiente aberto (instalação clandestina de manuseio de combustíveis) e apresenta grave queimadura envolvendo a mão esquerda. Nega queixas e deseja alta precoce a despeito da grave lesão que busca ocultar.
+
+
+3
+4
+5
+6
+7
+8
+9
+0

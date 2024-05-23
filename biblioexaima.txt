@@ -1,0 +1,24 @@
+Para ativar pesquisa:
+*Tecle Ctrl+L ou Ctrl+F 
+_____________________________________
+Biblioteca de Exames Complementares
+
+1 - RX - Tórax
+2 - TC - Tórax
+3 -ECG - Sinusal
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+.
+.
+.
+99
