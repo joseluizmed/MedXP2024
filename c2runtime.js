@@ -30331,9 +30331,11 @@ cr.behaviors.Rotate = function(runtime)
 cr.getObjectRefTable = function () { return [
 	cr.plugins_.AJAX,
 	cr.plugins_.Arr,
+	cr.plugins_.Function,
 	cr.plugins_.Audio,
 	cr.plugins_.Button,
 	cr.plugins_.Browser,
+<<<<<<< Updated upstream
 	cr.plugins_.Function,
 	cr.plugins_.filechooser,
 	cr.plugins_.List,
@@ -30344,14 +30346,33 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.NodeWebkit,
 	cr.plugins_.Rex_SLGHexTx,
 	cr.plugins_.Rex_NWjsExt,
+=======
+	cr.plugins_.filechooser,
+	cr.plugins_.Mouse,
+	cr.plugins_.Keyboard,
+	cr.plugins_.progressbar,
+	cr.plugins_.List,
+	cr.plugins_.NodeWebkit,
+	cr.plugins_.LocalStorage,
+	cr.plugins_.Rex_SLGHexTx,
+	cr.plugins_.Rex_NWjsExt,
+	cr.plugins_.Rex_webpage_reader,
+	cr.plugins_.sliderbar,
+	cr.plugins_.Spritefont2,
+>>>>>>> Stashed changes
 	cr.plugins_.TextBox,
 	cr.plugins_.video,
+<<<<<<< Updated upstream
 	cr.plugins_.Touch,
 	cr.plugins_.sliderbar,
 	cr.plugins_.Sprite,
 	cr.plugins_.Rex_webpage_reader,
 	cr.plugins_.Text,
 	cr.plugins_.Spritefont2,
+=======
+	cr.plugins_.Sprite,
+	cr.plugins_.Text,
+>>>>>>> Stashed changes
 	cr.behaviors.Rotate,
 	cr.behaviors.DragnDrop,
 	cr.behaviors.Pin,
